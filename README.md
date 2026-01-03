@@ -1,2 +1,2 @@
 # React
-This is random password generator 
+practing react by makking diffrent projects here 
