@@ -1,2 +1,2 @@
 # React
-Practicing react in this repo 
+This is random password generator 
